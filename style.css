@@ -1,3 +1,15 @@
 body {
   background-color: pink;
+  display: grid;
+  width: 800px;
+}
+
+#name-heading {
+    font-family: "Recursive", sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+#links-heading {
+  color: blue;
 }
